@@ -2,9 +2,10 @@
  данными 2 000 000 000, 500 000 000 вызывает ошибку.
 
 Краткое описание
+
 1.В редакторе кода"Intellij IDEA" набрать код:
 
-В редакторе кода"Intellij IDEA" набрать код:
+
  public class Main {
    public static void main(String[] args) {
        int count = 2_000_000_000;
