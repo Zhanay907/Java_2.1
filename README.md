@@ -35,8 +35,7 @@
 
 Количество неуспешных тестов 1.
 
-Ссылки на баг-репорты: https://docs.google.com/document/d/1-sjTJ3W7Jkw6JtuWAWQe0yDSdcV_7Ncysy0sElkFOYk/edit?usp=sharing
-
+Ссылки на баг-репорты: https://github.com/Zhanay907/Java_2.1/issues/1
 ## Общие рекомендации
 
 При создании Java-кода необходимо внимательно выбирать типы данных. 
